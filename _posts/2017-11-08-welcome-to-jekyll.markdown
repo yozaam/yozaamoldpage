@@ -16,6 +16,7 @@ I am currently studying computer engineering and have developed the following sk
     Arduino,2D game dev.,Basic app dev.,HTTP requests,Network technology<br>
 
 
+I've recently been interested in Ruby, so here is a little snippet,
 
 {% highlight ruby %}
 def print_hi(name)
@@ -24,6 +25,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+
 
 Check out [my projects][jekyll-docs] for more info on me. File all bugs/requests at [My GitHub][jekyll-gh]. If you have questions, you can ask them through [E-mail][jekyll-talk].
 
