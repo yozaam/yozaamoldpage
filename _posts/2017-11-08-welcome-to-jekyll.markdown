@@ -1,14 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome!"
 date:   2017-11-08 17:51:04 +0000
-categories: jekyll update
+categories: Introduction
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You might know me, I'm yozaam an aspiring developer intrigued by the internet.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I am currently studying computer engineering and have developed the following skills in my free time:
 
-Jekyll also offers powerful support for code snippets:
+-Front End Web Development:
+    HTML5,CSS,JQuery,Javascript,JS Object Notation,YAML,SASS,AJAX
+-Programming:
+    C/C++,Lua,Python,Bash commands,SAS programming,
+-Other:
+    Arduino,2D game dev.,Basic app dev.,HTTP requests,Network technology
+
+
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,8 +25,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [my projects][jekyll-docs] for more info on me. File all bugs/requests at [My GitHub][jekyll-gh]. If you have questions, you can ask them on [E-mail][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-docs]: http://codepen.io/yohaan
+[jekyll-gh]:   https://github.com/yozaam
+[jekyll-talk]: https://gmail.com/
