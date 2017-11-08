@@ -8,8 +8,9 @@
 # Site settings
 title: Yozaam!
 email: yozaam@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: | # this means to ignore newlines until "baseurl:"
   Hello World, what's up?
+  Stay tuned for updates and weekly posts coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: yoyotown2000
