@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harmonica and Python!"
-date:   2017-11-08 17:51:04 +0000
+date:   2017-11-12 15:11:04 +0000
 categories: weekly
 ---
 ##Adventures with python:
